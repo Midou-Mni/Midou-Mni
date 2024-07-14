@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Midou Mni</h1>
 <h3 align="center">A passionate full stack web developer from Algeria</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2VzdGs0eXhqcnd5YjN3eTNnMTBpMzZheWQxYzA5NnBtMXFpcXRyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OWgDiFQbtizpdLewE5/giphy.webp">
+<img align="right" alt="Coding" width="400" src="https://www.freecodecamp.org/certification/Midou_Mni/responsive-web-design">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=midou-mni&label=Profile%20views&color=0e75b6&style=flat" alt="midou-mni" /> </p>
 
