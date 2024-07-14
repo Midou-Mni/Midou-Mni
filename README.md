@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Midou Mni</h1>
 <h3 align="center">A passionate full stack web developer from Algeria</h3>
-    <img style="display: block;"  alt="Coding" width="100" src="JavaScript Intermediate.png">
-    <img  style="display: block;" alt="Coding" width="100" src="Responsive Web Design.png">
-    <img alt="Coding" width="100"  style="display: block;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2VzdGs0eXhqcnd5YjN3eTNnMTBpMzZheWQxYzA5NnBtMXFpcXRyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OWgDiFQbtizpdLewE5/giphy.webp">
+<div>
+    <img alt="Coding" width="400" src="JavaScript Intermediate.png">
+    <img alt="Coding" width="400" src="Responsive Web Design.png">
+</div>
+    <img alt="Coding" width="400"  style="display: block;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2VzdGs0eXhqcnd5YjN3eTNnMTBpMzZheWQxYzA5NnBtMXFpcXRyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OWgDiFQbtizpdLewE5/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=midou-mni&label=Profile%20views&color=0e75b6&style=flat" alt="midou-mni" /> </p>
 
