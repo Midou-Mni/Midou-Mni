@@ -10,10 +10,6 @@
 
 - 🔭 I’m currently working on **Progres**
 
-- 🌱 I’m currently learning **Django**
-
-- 💬 Ask me about **React, React Native, JavaScript**
-
 - 📫 How to reach me **mnimidou1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
